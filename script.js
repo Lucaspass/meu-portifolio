@@ -25,7 +25,36 @@ const PROJECTS = [
         image: 'https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&q=80&w=800',
         accentColor: '#ff00ff',
         url: 'https://lucaspass.github.io/Bv-Variedades/'
-    }
+    },
+     {
+        id: '4',
+        title: 'Landing Page - Bar Braziliam',
+        description: 'Landing page moderna, funcional, desenvolvida exclusivamente para o Bar Brazilian, focado na apresentação do Bar, organização das reservas e comodidade exclusiva do clientes.',
+        tags: ['HTML', 'CSS', 'JAVASCRIPT'],
+        image: './assets/barzinho.jpeg',
+        accentColor: '#00e5e6',
+        url: 'https://lucaspass.github.io/LP-BAR-BRAZILIAN/'
+    },
+     {
+        id: '5',
+        title: 'Landing Page - Barbearia Navalha&Co',
+        description: 'Landing page moderna e responsiva desenvolvida exclusivamente para a Barbearia Navalha&co, pensada para posicionar digitalmente a Barbearia, apresentando um pouco do trabalho para os clientes, facilitando os agendas através do whatsapp.',
+        tags: ['HTML', 'CSS', 'JAVASCRIPT'],
+        image: './assets/barbearia.jpeg',
+        accentColor: '#ff00ff',
+        url: 'https://lucaspass.github.io/LP-Navalha-Co/'
+    },
+    {
+        id: '6',
+        title: 'Landing Page - Loja Aura Boutique',
+        description: 'Landing page moderna e responsiva desenvolvida exclusivamente para a loja Aura Boutique, pensada para posicionar digitalmente a a loja, facilitar a organização das roupas, apresentando um pouco do trabalho para os clientes, facilitando os pedidos através do whatsapp.',
+        tags: ['HTML', 'CSS', 'JAVASCRIPT'],
+        image: './assets/aura.jpeg',
+        accentColor: '#ff00ff',
+        url: 'https://lucaspass.github.io/LP-Aura-Boutique/'
+    },
+
+
 ];
 
 const TECH_STACK = [
